@@ -1,0 +1,22 @@
+###########################################
+# Syntax Coloring Map For ObjectDetection
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+ObjectDetection	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+update_distance	KEYWORD2
+set_distance_sensor	KEYWORD2
+angleToMic	KEYWORD2
+updateObjDetection	KEYWORD2
+get_servo_angle	KEYWORD2
+get_distance	KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
