@@ -15,5 +15,7 @@ HOW TO USE:
 
 Future Updates:
 
-    - Fix Servo, by implementing a custom Servo Library *NOTE the current servo library should work, so you 
-     can try to get it to work by uncommenting it. It is meant to control a servo neck which harbor the distance sensor and two motion IR sensors.
+    - Fix Servo by implementing a custom Servo Library *** PLEASE NOTE the Arduino servo library did not work, 
+    but you can try to get it to work by uncommenting the code for that section. It is meant to control a servo
+    neck which harbor the distance sensor and two motion IR sensors. The logic for a servo neck design is sound,
+    although you may have to play around with the increment value for the servo angle. 
